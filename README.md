@@ -45,8 +45,6 @@
 
 ---
 
-## 📊 Analytics do GitHub
-
 ### 📊 Analytics do GitHub
 
 <div align="center">
