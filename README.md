@@ -33,15 +33,19 @@
 
 ---
 
+---
+
 ## 🚀 Projetos em Destaque
 
-| 🛡️ Gerenciador de Senhas | 🎲 Dashboard de Gerenciamento |
+| [🛡️ Gerenciador de Senhas](https://github.com/AngeloJR-web/genreciador-de-senhas) | [🎲 Dashboard de Gerenciamento](https://github.com/AngeloJR-web/Master-dashboard) |
 | :--- | :--- |
-| Construído com **Rust** e **Tauri**. Aplicação com foco em extrema segurança, utilizando criptografia AES-256 para armazenamento local e UI/UX customizada para alta responsividade. | Software **100% desktop nativo**, desenvolvido para facilitar a gestão de campanhas narrativas complexas, lidando com grandes volumes de dados de forma offline. |
+| Construído com **Rust** e **Tauri**. Aplicação com foco em extrema segurança, utilizando criptografia AES-256 para armazenamento local e uma interface de usuário otimizada para alta responsividade. | Software **100% desktop nativo**, desenvolvido para facilitar a gestão de campanhas narrativas complexas, lidando com grandes volumes de dados de forma offline e performática. |
 
-| 🎬 Dorama Rank | ⚙️ Automação e Bots |
+| [🎬 Dorama Rrank](https://github.com/AngeloJR-web/DoramaRank) | [⚙️ Automação e Bots](https://github.com/AngeloJR-web/bot-monkeytype-python) |
 | :--- | :--- |
-| Consumo dinâmico da **API RESTful do TMDB** para extrair e organizar metadados atualizados, sinopses e trailers, proporcionando um catálogo pessoal interativo e responsivo. | Criação de scripts em **Python** voltados para testes de performance (como automação de digitação) e extração de dados web de forma ágil e otimizada. |
+| Consumo dinâmico da **API RESTful do TMDB** para extrair e organizar metadados atualizados de Doramas, proporcionando um catálogo pessoal interativo. | Desenvolvimento de scripts em **Python** voltados para automação de processos e extração de dados web (Web Scraping) de forma ágil e estruturada. |
+
+---
 
 ---
 
