@@ -2,7 +2,7 @@
 
 # <p align="center"> <img src="https://img.freepik.com/fotos-gratis/personagem-de-estilo-anime-no-espaco_23-2151134147.jpg?semt=ais_hybrid&w=740&q=80" alt="Banner do Angelo" width="100%" /></p>
 
-<h1 align="center">Konnichiwa, Sekai! Eu sou o Angelo De Oliveira Junior 👋</h1>
+<h1 align="center">Olá! Eu sou o Angelo De Oliveira Junior 👋</h1>
 
 <p align="center">
   <em>Desenvolvedor em treinamento, otimizador de hardware e fã de boas histórias.</em>
@@ -17,7 +17,7 @@
 ## 👤 Ficha de Personagem (Status RPG)
 
 <p align="center">
-  <img src="LINK_DE_UM_GIF_PEQUENO_E_SUTIL_DE_PERSONAGEM_OU_PIXEL_ART_AQUI" align="right" width="150" stroke="5"/>
+  <img src="https://media1.tenor.com/m/jG2BQYOtQJYAAAAd/mahiru.gif" align="right" width="150" stroke="5"/>
 </p>
 
 - 🧑‍💻 **Classe:** Software Developer (Foco em Desktop e Segurança)
