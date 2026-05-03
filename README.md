@@ -48,7 +48,7 @@
 ### 📊 Analytics do GitHub
 
 <div align="center">
-  <img height="170" src="https://metrics.lecoq.io/AngeloJR-web?template=classic&base=header,repositories&config_timezone=America%2FSao_Paulo&theme=dracula" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=AngeloJR-web&theme=dracula&hide_border=true" alt="Gráfico de Atividade" />
   
   <img height="170" src="https://streak-stats.demolab.com?user=AngeloJR-web&theme=dracula&hide_border=true" alt="Sequência de Commits" />
 </div>
