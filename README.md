@@ -47,7 +47,10 @@
 
 ## 📊 Analytics do GitHub
 
+### 📊 Analytics do GitHub
+
 <div align="center">
-  <img height="160" src="https://github-readme-stats.shion.dev/api?username=AngeloJR-web&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AngeloJR-web&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="170" src="https://metrics.lecoq.io/AngeloJR-web?template=classic&base=header,repositories&config_timezone=America%2FSao_Paulo&theme=dracula" alt="Estatísticas do GitHub" />
+  
+  <img height="170" src="https://streak-stats.demolab.com?user=AngeloJR-web&theme=dracula&hide_border=true" alt="Sequência de Commits" />
 </div>
