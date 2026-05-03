@@ -48,6 +48,6 @@
 ## 📊 Analytics do GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AngeloJR-web&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloJR-web&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=AngeloJR-web&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AngeloJR-web&layout=compact&theme=dracula&hide_border=true"/>
 </div>
